@@ -15,7 +15,7 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   Future<List<Product>> _getProducts() async {
-    var data = await http.get(Uri.parse('http://18.140.66.77:8081/product'));
+    var data = await http.get(Uri.parse('http://180.140.66.77:8080/product'));
     var jsonData = json.decode(data.body);
     var jsonDataProd = jsonData['Products'];
 
