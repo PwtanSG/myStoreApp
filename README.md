@@ -4,6 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+•	Mobile app to display grocery store product information using flutter. 
 
-[Link text](https://youtube.com/shorts/0ITAxpsjcpc)
+[demo video](https://youtube.com/shorts/0ITAxpsjcpc)
